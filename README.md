@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Javascript & Node, Express
 - 👯 I’m looking to collaborate on ... WebDev Projects
 
+### 📊 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codeagrim&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
