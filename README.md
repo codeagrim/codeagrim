@@ -23,6 +23,7 @@
 ### 🚧 Currently Working On
 - 🔧 REST APIs using Node.js, Express & MongoDB
 - 🧪 Backend testing with Postman
+- Finding Job (Open to Work)
 
 <!-- Connect -->
 ### 📫 Let's Connect
