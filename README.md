@@ -9,9 +9,13 @@
 </p>
 
 <!-- GitHub Stats and Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeagrim&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=codeagrim&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeagrim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
